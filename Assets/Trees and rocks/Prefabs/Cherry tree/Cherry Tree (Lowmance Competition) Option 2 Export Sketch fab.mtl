@@ -1,0 +1,22 @@
+# Blender MTL File: 'Cherry Tree (Lowmance Competition) Option 2 Export Sketch fab.blend'
+# Material Count: 2
+
+newmtl Pink_Leaves
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.029413 0.149656
+Ks 0.190909 0.190909 0.190909
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Tree_Bark
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.307466 0.189711 0.158318
+Ks 0.163636 0.163636 0.163636
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
